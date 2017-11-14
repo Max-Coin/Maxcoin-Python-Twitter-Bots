@@ -1,6 +1,7 @@
 # Maxcoin-Python-Twitter-Bots
-The GetMaxcoinPrice Script is used to grab the price of Maxcoin from CoinMarketCap and tweets to a selected Twitter Account via Api Keys
-The GetMaxcoinBlockInfo Script is used to grab some api data of Maxcoin from http://api.maxcoinhub.io/docs/#/ and tweets to twitter
+## The GetMaxcoinPrice Script is used to grab the price of Maxcoin from CoinMarketCap and tweets to a selected Twitter Account via Api Keys
+
+## The GetMaxcoinBlockInfo Script is used to grab some api data of Maxcoin from http://api.maxcoinhub.io/docs/#/ and tweets to twitter
 
 
 
