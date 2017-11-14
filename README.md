@@ -9,6 +9,24 @@
 ```
 sudo pip install twython
 ```
+
+# Setting up Coinmarketcap Python Module
+```
+sudo git clone https://github.com/mrsmn/coinmarketcap-api
+```
+
+# Change Directory into coinmarketcap-api
+```
+cd coinmarketcap-api
+```
+
+# Setting up the module
+```
+sudo python setup.py build
+sudo python setup.py install
+```
+
+
 ## If you dont have pip installed then
 ```
 sudo apt-get install python-pip
