@@ -17,7 +17,7 @@ sudo pip install twython
 
 ## Downloading the Python Scripts
 ```
-git clone https://github.com/Max-Coin/Maxcoin-Python-Twitter-Bots/
+sudo git clone https://github.com/Max-Coin/Maxcoin-Python-Twitter-Bots/
 ```
 
 ```
