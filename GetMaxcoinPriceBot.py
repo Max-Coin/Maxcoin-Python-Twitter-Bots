@@ -33,10 +33,7 @@ def run_total_id():
 
     l = coinmarketcap.ticker('maxcoin/?convert=CNY')
 
-#    s = json.loads(s)
     total_id = ('Maxcoin Price ' + '\n' + '@getmaxcoin')
-
-#    price_gbp = ('PGBP: ' + '£' + s[0]['price_gbp'])
 
     price_rub = ('RUB: ' + n[0]['price_rub'])
 
@@ -50,8 +47,6 @@ def run_total_id():
 
     txt1 = (total_id + str ('\n' + '\n' + 'Price: ' + '\n' + price_usd + '\n' + price_btc + '\n' + price_rub + '\n' + price_cny + '\n' + '\n' + 'MaxcoinProject.org' +  '\n' + '\n' + rank))
 
-   # photo = open('/var/www/apistuffwithtux/maxcoincode/Maxcoin.jpg')
-  #  response = twitter.upload_media(media=photo)
     try:
         s = twitter.update_status(status=txt1)
     except TwythonError, e:
