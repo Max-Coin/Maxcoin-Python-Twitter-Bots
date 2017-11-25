@@ -1,6 +1,3 @@
-# Python Script Created By Oliver Morris
-# Python Script Is used on GetMaxcoinBlockInfo Twitter Account
-
 #!/usr/bin/env python
 import sys
 import time
