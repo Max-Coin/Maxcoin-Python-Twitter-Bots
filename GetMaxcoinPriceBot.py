@@ -1,6 +1,3 @@
-# Python Script Created By Oliver Morris
-# Python Script Is used on GetMaxcoinPrice Twitter Account
-
 #!/usr/bin/env python
 # encoding=utf8
 import sys
